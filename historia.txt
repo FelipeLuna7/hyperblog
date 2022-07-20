@@ -1,1 +1,3 @@
-Hola Mundo, estoy aprendiendo git. 
+Hola Mundo, estoy aprendiendo git,
+
+y despues voy hacer un curso de Scrum. 
