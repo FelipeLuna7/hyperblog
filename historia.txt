@@ -1,3 +1,5 @@
 Hola Mundo, estoy aprendiendo git,
 
-y despues voy hacer un curso de Scrum. 
+y despues voy hacer un curso de Scrum, 
+
+y luego un curso de habilidades blandas.
