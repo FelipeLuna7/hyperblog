@@ -1,1 +1,3 @@
-Hola Mundo, estoy aprendiendo git y me parece genial. 
+Hola Mundo, estoy aprendiendo git y me parece genial.
+
+Soy otro colaborador del proyecto y estoy aprendiendo mucho sobre git y vim.
